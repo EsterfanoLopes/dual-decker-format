@@ -33,6 +33,6 @@ I hope you enjoy playing Dual Decker Format! Feel free to share your feedback an
 
 **This is an initial sketch to the format**. If you want to help to improve it, test it and come with feedbacks.
 
- - Look at the issues tab to check on things that was suggested and can be solved; 
- - Open Pull Requests with suggested enhancements to it;
- - Discuss on pull requests until we find that it is okay to use as a final modification;
+ - Look at the [issues tab](https://github.com/EsterfanoLopes/dual-decker-format/issues) to check on things that was suggested and can be solved; 
+ - Open [Pull Requests](https://github.com/EsterfanoLopes/dual-decker-format/pulls) with suggested enhancements to it;
+ - Discuss on [pull requests](https://github.com/EsterfanoLopes/dual-decker-format/pulls) until we find that it is okay to use as a final modification;
