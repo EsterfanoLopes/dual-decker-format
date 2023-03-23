@@ -10,7 +10,7 @@ Dual Decker is a casual Magic: The Gathering format where players use two separa
  - Each player must have two decks: one containing only land cards, and the other containing all non-land cards.
  - Players draw one hand, but they can choose from which deck they will draw each card.
  - Each turn, the player can draw a card as always, but they must choose which deck they will draw it from.
- - The minimum deck size is 15 cards in each deck, but this rule don't substitute the original format rule.
+ - The minimum deck size is 20 cards in each deck, but this rule don't substitute the original format rule.
    - For example, if you are playing Pioneer, you should have 60 cards in both decks. One of them can't have less than 15 cards.
  - When a player is instructed to mill cards, they must mill one card from each deck alternately.
  - When a player is instructed to reveal the top card of their library until a certain type of card appears, they must choose which deck to reveal cards from.
